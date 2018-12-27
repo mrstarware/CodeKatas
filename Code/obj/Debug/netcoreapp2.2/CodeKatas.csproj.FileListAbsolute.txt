@@ -1,0 +1,11 @@
+C:\CodeKatas\Code\bin\Debug\netcoreapp2.2\CodeKatas.deps.json
+C:\CodeKatas\Code\bin\Debug\netcoreapp2.2\CodeKatas.runtimeconfig.json
+C:\CodeKatas\Code\bin\Debug\netcoreapp2.2\CodeKatas.runtimeconfig.dev.json
+C:\CodeKatas\Code\bin\Debug\netcoreapp2.2\CodeKatas.dll
+C:\CodeKatas\Code\bin\Debug\netcoreapp2.2\CodeKatas.pdb
+C:\CodeKatas\Code\obj\Debug\netcoreapp2.2\CodeKatas.csprojAssemblyReference.cache
+C:\CodeKatas\Code\obj\Debug\netcoreapp2.2\CodeKatas.csproj.CoreCompileInputs.cache
+C:\CodeKatas\Code\obj\Debug\netcoreapp2.2\CodeKatas.AssemblyInfoInputs.cache
+C:\CodeKatas\Code\obj\Debug\netcoreapp2.2\CodeKatas.AssemblyInfo.cs
+C:\CodeKatas\Code\obj\Debug\netcoreapp2.2\CodeKatas.dll
+C:\CodeKatas\Code\obj\Debug\netcoreapp2.2\CodeKatas.pdb
