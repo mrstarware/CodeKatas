@@ -10,10 +10,11 @@ variables:
 steps:
 - script: |
     dotnet build --configuration $(buildConfiguration)
-    dotnet test tests --configuration $(buildConfiguration) --logger trx
+    dotnet test tests --configuration $(buildConfiguration)
     dotnet publish --configuration $(buildConfiguration) --output $BUILD_ARTIFACTSTAGINGDIRECTORY
+    failOnStderr:true
 - task: PublishTestResults@2
   inputs:
     testRunner: VSTest
     testResultsFiles: '**/*.trx'
-    failOnStandardError: true
+    
