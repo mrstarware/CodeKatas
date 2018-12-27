@@ -9,7 +9,7 @@ namespace CodeKatas {
         public static int PerformOperation (char operation, int one, int two) {
             switch (operation) {
                 case '*':
-                    return one - two;
+                    return one * two;
                 case '+':
                     return one + two;
                 case '-':
