@@ -5,7 +5,7 @@ using NUnit.Framework;
 
 namespace tests {
     [TestFixture]
-    public class FindUnknownDigitTests {
+    public class RunesTests {
 
         [Test]
         public void PerformOperationTests () {
@@ -89,7 +89,7 @@ namespace tests {
         Assert.AreEqual (true, result3);
 
         var result4 = Runes.IsEquationBalanced (tests[3]);
-        Assert.AreEqual (false, result4);
+        Assert.AreEqual (true, result4);
 
         var result5 = Runes.IsEquationBalanced (tests[4]);
         Assert.AreEqual (false, result5);

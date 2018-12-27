@@ -5992,11 +5992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\CodeKatas\\tests\\tests.csproj",
+      "projectUniqueName": "C:\\CodeKatas\\tests\\tests.csproj",
       "projectName": "tests",
-      "projectPath": "c:\\CodeKatas\\tests\\tests.csproj",
+      "projectPath": "C:\\CodeKatas\\tests\\tests.csproj",
       "packagesPath": "C:\\Users\\Trevor\\.nuget\\packages\\",
-      "outputPath": "c:\\CodeKatas\\tests\\obj\\",
+      "outputPath": "C:\\CodeKatas\\tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6015,8 +6015,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "c:\\CodeKatas\\Code\\CodeKatas.csproj": {
-              "projectPath": "c:\\CodeKatas\\Code\\CodeKatas.csproj"
+            "C:\\CodeKatas\\Code\\CodeKatas.csproj": {
+              "projectPath": "C:\\CodeKatas\\Code\\CodeKatas.csproj"
             }
           }
         }
